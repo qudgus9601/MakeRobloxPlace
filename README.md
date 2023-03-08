@@ -112,3 +112,6 @@ x축의 5정도 되는 부분에서 중간 경로를 강제로 지정하고 그 
 강봉수대표님과 말씀을 나눴을때도 게임상에서 완전한 랜덤을 하기는 힘들다는 조언을 얻어서 합의점을 찾아 진행했다.<br/>
 ![KakaoTalk_20211115_225651252](https://user-images.githubusercontent.com/68590947/223585454-58ec1bf1-4a3e-422e-be6d-050d1126e36a.png)
 
+![랜덤도로 1번](https://user-images.githubusercontent.com/68590947/223590447-08217ce5-c31b-4f4e-9e62-a3baee65f669.jpg)
+
+
